@@ -21,7 +21,7 @@ const Feed = () => {
         <Sidebar selectedCategory={selectedCategory} setSelectedCategory={setSelectedCategory} />
         
         <Typography className="copyright" variant="body2" sx={{ mt: 1.5, color: "#fff", }}>
-          Copyright © 2022 Heartan Media Design And Developed by Rushi Chandavale
+          Copyright © 2022 Heartan Media 
         </Typography>
       </Box>
 
